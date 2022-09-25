@@ -6,3 +6,6 @@ try.
 
 We are still in our early stages of developing the parent. We welcome all contributions.
 
+<p align="center">
+  <img src="https://github.com/PaulleDemon/virtual-parent-support/blob/main/images/contribution-poster.png" alt="AdoStrings icon" width=350px" height="450px"/>
+</p>
