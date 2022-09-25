@@ -6,8 +6,9 @@ try. we are creating an AI parent that can provide emotional support and parenta
 
 We are still in our early stages of developing the parent. We welcome all contributions.
 
-Source code for frontend: [frontend](https://github.com/PaulleDemon/Virtual-parent-frontend)
-Source code for backend: [backend](https://github.com/PaulleDemon/virtual-parent-backend)
+**Source code for frontend**: [frontend](https://github.com/PaulleDemon/Virtual-parent-frontend)
+
+**Source code for backend** : [backend](https://github.com/PaulleDemon/virtual-parent-backend)
 
 
 <p align="center">
